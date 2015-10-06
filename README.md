@@ -14,8 +14,12 @@ A reusable image cropping and scaling interface for iOS, similar to Instagram's 
 * Quartz-drawn iOS camera capture style overlay
 * Automatically snaps photo to the edges
  
-
 Here is a screenshot of the demo app that uses a basic "Capture" button: http://cl.ly/image/203u0Q3J0J2t.
+
+New features
+----------
+
+* Set the type of cropper hole (Square or Circle)
 
 Credits
 -------
