@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIPImageCropperXamarin", "HIPImageCropperXamarin\HIPImageCropperXamarin.csproj", "{D5782487-AE89-4DCB-990F-E42B43A24E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Release|iPhone.Build.0 = Release|iPhone
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D5782487-AE89-4DCB-990F-E42B43A24E21}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
