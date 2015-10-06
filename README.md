@@ -20,7 +20,7 @@ Here is a screenshot of the demo app that uses a basic "Capture" button: http://
 Credits
 -------
 
-* First of all thanks to the authors of [HIPImageCropper](https://github.com/Hipo/HIPImageCropper) library and to the [Hipo Team](http://hipo.biz).
+* First of all thanks to authors of [HIPImageCropper](https://github.com/Hipo/HIPImageCropper) library and to the [Hipo Team](http://hipo.biz).
 * Thanks me that in my rest time I created this awesome port =)
 
 License
