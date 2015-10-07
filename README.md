@@ -1,6 +1,7 @@
 # HIPImageCropperXamarin
 
 This repository is the Xamarin iOS port of native [HIPImageCropper](https://github.com/Hipo/HIPImageCropper)
+Pull requests welcome!
 
 Description from origin source:
 --------
